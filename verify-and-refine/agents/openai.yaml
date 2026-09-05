@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify and Refine"
+  short_description: "Iterative review, authorized fixes, and verification"
+  default_prompt: "Use $verify-and-refine to review the agreed scope, apply authorized fixes, verify the result, and deliver a consolidated final plan with unresolved issues and limitations."
